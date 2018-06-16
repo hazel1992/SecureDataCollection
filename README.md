@@ -24,7 +24,7 @@ This is a link to the tutorial : https://learn.sparkfun.com/tutorials/xbee-wifi-
 
 See attached docx word file, this file shows what each code does
 
-#Physical Set up
+# Physical Set up
 
 The physical architecture jpg shows how everything will be configured by the user
 and how the devices communicate with each other
