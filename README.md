@@ -1,5 +1,5 @@
-# SecureDataCollection
-This project secures data transmission through authentication
+# SecureLoadBalancing
+This project secures data transmission between devices through authentication
 
 # Set Up
 sudo apt-get install pycrypto
